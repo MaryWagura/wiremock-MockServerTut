@@ -1,0 +1,22 @@
+{
+  "mappings": [
+    {
+      "request": {
+        "method": "GET",
+        "url": "/users/marywagura"
+      },
+      "response": {
+        "status": 200,
+        "headers": {
+          "Content-Type": "application/json"
+        },
+        "jsonBody": {
+          "login": "marywagura",
+          "name": "marywagura",
+          "twitter_username": "",
+          "public_repos": 0
+        }
+      }
+    }
+  ]
+}
